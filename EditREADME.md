@@ -25,11 +25,13 @@
 
 ## 已收集RSS列表
 
-| 编号 | 名称 | 描述 | RSS  |  最新内容 |
+| 標註 | 名称 | 描述 | RSS  |  最新内容 |
 | --- | --- | --- | --- |  --- |
 | <h2 id="软件工具">競業監控</h2> |  |   |  |
-| <div id="S001" style="text-align: center;"><img src="./_media/favicon/S001.png" width="30px" style="width:30px;height: auto;"/><br><span>S001</span></div>
-| R003 | kindle吧 |  海量书单阅读分享者 | {{latest_content}}  |  [订阅地址](https://www.kindle8.cc/feed) |  
+| 競業 | ABC-公告 | abc好車網主站公告 | {{latest_content}}  |  [订阅地址](https://feed43.com/0564117341674331.xml) |  
+| 競業 | ABC-LINE | abc好車網LINE貼文 | {{latest_content}}  |  [订阅地址](https://feed43.com/0201422374304725.xml) |  
+| 競業 | ABC-Facebook | abc好車網臉書貼文 | {{latest_content}}  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba526139aa9395ab61464f2e42b2.xml) |  
+| 競業 | ABC-YouTube | abc好車網臉書貼文 | {{latest_content}}  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba526139aa9395ab61464f2e42b2.xml) |  
 
 
 
@@ -100,4 +102,4 @@ yag.send('填收件人邮箱', '主题:学习使我快乐', contents)
 ![wx-rss-001](https://cdn.fangyuanxiaozhan.com/assets/1631157359186yYa61HDi.png)
 
  
-  
+    
