@@ -26,7 +26,14 @@
 | 競業 | ABC-LINE | abc好車網LINE貼文 | {{latest_content}}  |  [订阅地址](https://feed43.com/0201422374304725.xml) |  
 | 競業 | ABC-Facebook | abc好車網臉書貼文 | {{latest_content}}  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba526139aa9395ab61464f2e42b2.xml) |  
 | 競業 | ABC-YouTube | abc好車網油管影片 | {{latest_content}}  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba526139aa9395ab61464f2e42b2.xml) |  
-
+| 聯盟 | SAVE-YouTube | SAVE油管影片 | {{latest_content}}  |  [订阅地址](https://www.youtube.com/feeds/videos.xml?channel_id=UCR-5EmPDvnZbF6Q_WVbA_RA) |  
+| 聯盟 | HOT-YouTube | HOT油管影片 | {{latest_content}}  |  [订阅地址](https://www.youtube.com/feeds/videos.xml?channel_id=UC4oNiwJigIW9EW3KHrVQ2QQ) |
+| 聯盟 | SUM-YouTube | SUM油管影片 | {{latest_content}}  |  [订阅地址](https://www.youtube.com/feeds/videos.xml?channel_id=UCM5Vfp-YI1lxpV0C6lgc-RQ) | 
+| 聯盟 | SAVE-Facebook | SAVE臉書貼文 | {{latest_content}}  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba526140298e8966b30d012fc4a2.xml) |  
+| 聯盟 | HOT-Facebook | HOT臉書貼文 | {{latest_content}}  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba52614029d2ffc9da29576adf12.xml) |
+| 聯盟 | SUM-Facebook | SUM臉書貼文 | {{latest_content}}  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba5261402a0069c0fb34c1726fe2.xml) | 
+| 聯盟 | SUM-LINE | SUMLINE貼文 | {{latest_content}}  |  [订阅地址](https://feed43.com/0745227586345257.xml) | 
+| 監理站 | 監理站-公告 | 監理站公告 | {{latest_content}}  |  [订阅地址](https://feed43.com/5280011564810400.xml) |
 
 
 ## 如何定制自己的私人简报?
@@ -95,5 +102,5 @@ yag.send('填收件人邮箱', '主题:学习使我快乐', contents)
 
 ![wx-rss-001](https://cdn.fangyuanxiaozhan.com/assets/1631157359186yYa61HDi.png)
 
- 
+  
        
