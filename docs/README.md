@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集12个RSS源, 生成时间: 2021-10-17 06:08:18)
+# Github Actions Rss (garss, 嘎RSS! 已收集12个RSS源, 生成时间: 2021-10-18 06:08:13)
 
 
 [《嘎!RSS》永久开源页面: https://github.com/zhaoolee/garss](https://github.com/zhaoolee/garss)
@@ -11,9 +11,9 @@
 2. 利用Github Actions, 搜集全部RSS的头版头条新闻标题和超链接, 并自动更新到首页,当天最新发布的文章会出现🌈 标志
 
 邮件内容区开始>
-<h2>新蒸熟1个小蛋糕🍰(文章) 生产时间 2021-10-17 06:08:18 保质期24小时</h2>
+<h2>新蒸熟2个小蛋糕🍰(文章) 生产时间 2021-10-18 06:08:13 保质期24小时</h2>
 
-<div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.youtube.com/watch?v=c7pKveLI5vM' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 【2021第二屆麗寶盃超級房車賽決賽】啦啦隊女神峮峮來到麗寶啦！一起燃燒您的賽車魂！ | 第1篇</a></div>
+<div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.youtube.com/watch?v=XXeaHaaowgE' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 【2021第二屆麗寶盃超級房車賽決賽】麗寶賽車幕後花絮 | 第1篇</a></div><div style='line-height:3;' ><a href='https://www.facebook.com/195510460484243/posts/4355557867812794/' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ This content isn't available right now | 第2篇</a></div>
 
 <邮件内容区结束
 
@@ -28,10 +28,10 @@
 | 競業 | ABC-YouTube | abc好車網油管影片 | [‣ Photos from Abc好車網's post \| 2021-10-15](https://www.facebook.com/959277324083390/posts/4788091797868571/)<br/>[‣ 女友幫忙洗車結果GG了！　用菜瓜布洗完直接變成消光白 - Yahoo奇摩汽車機車 \| 2021-10-15](https://www.facebook.com/959277324083390/posts/4784176724926745/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba526139aa9395ab61464f2e42b2.xml) |  
 | 聯盟 | SAVE-YouTube | SAVE油管影片 | [‣ 2016年 MAZDA 6 優惠價：65.8萬 廣一汽車 0910-751521 \| 2021-07-30](https://www.youtube.com/watch?v=RrBn9tUbpcY)<br/>[‣ 2018年 SUZUKI VITARA 優惠價：63.8萬 SAVE認證車 廣一汽車 0910-751521 \| 2021-07-30](https://www.youtube.com/watch?v=GDucdKh2krA)  |  [订阅地址](https://www.youtube.com/feeds/videos.xml?channel_id=UCR-5EmPDvnZbF6Q_WVbA_RA) |  
 | 聯盟 | HOT-YouTube | HOT油管影片 | [‣ 【跟著HOT老司機吃喝玩樂】詮峰汽車 全羊料理、像蛇一樣的窯!?｜HOT大聯盟 \| 2021-08-02](https://www.youtube.com/watch?v=E8Tu4xiv7p4)<br/>[‣ 【跟著HOT老司機吃喝玩樂】塑騰汽車ft.哥極辣 三合手作麵線、ART BAR｜HOT大聯盟 \| 2021-08-02](https://www.youtube.com/watch?v=r33NBqmBRAI)  |  [订阅地址](https://www.youtube.com/feeds/videos.xml?channel_id=UC4oNiwJigIW9EW3KHrVQ2QQ) |
-| 聯盟 | SUM-YouTube | SUM油管影片 | [‣ 【2021第二屆麗寶盃超級房車賽決賽】啦啦隊女神峮峮來到麗寶啦！一起燃燒您的賽車魂！ 🌈 2021-10-16](https://www.youtube.com/watch?v=c7pKveLI5vM)<br/>[‣ 【2021第二屆麗寶盃超級房車賽決賽】SUM x Go車誌 TURBO組冠軍－朱嘉偉賽前專訪 🌈 2021-10-16](https://www.youtube.com/watch?v=sCLGi74_d6s)  |  [订阅地址](https://www.youtube.com/feeds/videos.xml?channel_id=UCM5Vfp-YI1lxpV0C6lgc-RQ) | 
+| 聯盟 | SUM-YouTube | SUM油管影片 | [‣ 【2021第二屆麗寶盃超級房車賽決賽】麗寶賽車幕後花絮 🌈 2021-10-17](https://www.youtube.com/watch?v=XXeaHaaowgE)<br/>[‣ 【2021第二屆麗寶盃超級房車賽決賽】啦啦隊女神峮峮來到麗寶啦！一起燃燒您的賽車魂！ 🌈 2021-10-17](https://www.youtube.com/watch?v=c7pKveLI5vM)  |  [订阅地址](https://www.youtube.com/feeds/videos.xml?channel_id=UCM5Vfp-YI1lxpV0C6lgc-RQ) | 
 | 聯盟 | SAVE-Facebook | SAVE臉書貼文 | [‣ SAA鑑定中古車購買須知班│想買中古車的你，擔心掉入不肖車商的陷阱嗎？想知道如何判斷店家給你的信息嗎？21年經驗的SAA鑑定資深工程師來告訴你購買中古車一定要知道的大小事。 \| 2021-10-15](https://www.facebook.com/226870563993800/posts/5022604151087060/)<br/>[‣ 小型SUV運動休旅車 TOYOTA C-HR│台灣中古車/二手車的專家-解決你買賣中古車/二手車的大小事 \| 2021-10-15](https://www.facebook.com/226870563993800/posts/5011828572164618/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba526140298e8966b30d012fc4a2.xml) |  
 | 聯盟 | HOT-Facebook | HOT臉書貼文 | [‣ 「大稻埕情人節」周六晚480秒煙火點亮夜空　當天交管一次看 \| 上報 \| LINE TODAY \| 2021-10-15](https://www.facebook.com/1612263792147064/posts/6400234290016633/)<br/>[‣ 【#HOT新朋友來報到】讓我們歡迎✨丞致汽車✨的加入👏透過專業與服務的態度對待每位車主❤️🚗來體驗看看丞致汽車的專業與服務 https://bit.ly/3oV6Ycz \| 2021-10-15](https://www.facebook.com/1612263792147064/posts/6389618234411572/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba52614029d2ffc9da29576adf12.xml) |
-| 聯盟 | SUM-Facebook | SUM臉書貼文 | [‣ 【2021第二屆麗寶盃超級房車賽決賽】SUM x Go車誌 TURBO組冠軍－朱嘉偉賽前專訪 \| 2021-10-15](https://www.facebook.com/195510460484243/posts/4355387584496489/)<br/>[‣ #2021麗寶房車賽決賽 🔥🎉狂賀 恭喜 #嘉偉哥 TURBO組拿下第一名🏆真的太強大啦！！🙌另外還有「嘉偉哥專訪」會在10/15 22:00播出喔～大家敬請期待~🤩#SUM汽車網#SUMxGo車誌#一起Go_Racing#麗寶盃超級房車賽 \| 2021-10-15](https://www.facebook.com/195510460484243/posts/4355334954501752/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba5261402a0069c0fb34c1726fe2.xml) | 
+| 聯盟 | SUM-Facebook | SUM臉書貼文 | [‣ This content isn't available right now 🌈 2021-10-17](https://www.facebook.com/195510460484243/posts/4355557867812794/)<br/>[‣ 【2021第二屆麗寶盃超級房車賽決賽】SUM x Go車誌 TURBO組冠軍－朱嘉偉賽前專訪 🌈 2021-10-17](https://www.facebook.com/195510460484243/posts/4355387584496489/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba5261402a0069c0fb34c1726fe2.xml) | 
 | 聯盟 | SUM-LINE | SUMLINE貼文 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://feed43.com)  |  [订阅地址](https://feed43.com/0745227586345257.xml) | 
 | 監理站 | 監理站-公告 | 監理站公告 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://feed43.com)  |  [订阅地址](https://feed43.com/5280011564810400.xml) |
 
