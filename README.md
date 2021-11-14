@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集12个RSS源, 生成时间: 2021-11-14 06:08:07)
+# Github Actions Rss (garss, 嘎RSS! 已收集12个RSS源, 生成时间: 2021-11-15 06:08:23)
 
 
 [《嘎!RSS》永久开源页面: https://github.com/zhaoolee/garss](https://github.com/zhaoolee/garss)
@@ -11,9 +11,9 @@
 2. 利用Github Actions, 搜集全部RSS的头版头条新闻标题和超链接, 并自动更新到首页,当天最新发布的文章会出现🌈 标志
 
 邮件内容区开始>
-<h2>新蒸熟0个小蛋糕🍰(文章) 生产时间 2021-11-14 06:08:07 保质期24小时</h2>
+<h2>新蒸熟9个小蛋糕🍰(文章) 生产时间 2021-11-15 06:08:23 保质期24小时</h2>
 
-
+<div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.abccar.com.tw/news/detail?id=1314' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 2021/10/08 | 歡慶振興 實在開心 促銷優惠大放送 | 第1篇</a></div><div style='line-height:3;' ><a href='https://www.abccar.com.tw/news/detail?id=1313' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 2021/07/06 | abc好車網新服務-儲值金方案 | 第2篇</a></div><div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.abccar.com.tw/news/detail?id=1312' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 2021/05/28 | 疫情期間 持續賺錢的最佳選擇 | 第3篇</a></div><div style='line-height:3;' ><a href='https://www.abccar.com.tw/news/detail?id=1311' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 2021/05/17 | abc好車網 新增line聯繫賣家功能 | 第4篇</a></div><div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.abccar.com.tw/news/detail?id=1310' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 2021/05/19 | abc好車網-過戶收費期間調整說明 | 第5篇</a></div><div style='line-height:3;' ><a href='https://www.abccar.com.tw/news/detail?id=1309' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 2021/04/22 | 館別調整說明 | 第6篇</a></div><div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.abccar.com.tw/news/detail?id=1308' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 2021/03/22 | abc好車網最新優惠公告 | 第7篇</a></div><div style='line-height:3;' ><a href='https://www.abccar.com.tw/news/detail?id=1307' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 2021/03/18 | 💰好車網超優惠促銷大放送💰 | 第8篇</a></div><div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.abccar.com.tw/news/detail?id=1306' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 2021/03/12 | 2021全新abc好車網電視廣告全新登場 | 第9篇</a></div>
 
 <邮件内容区结束
 
@@ -22,16 +22,16 @@
 | 標註 | 名称 | 描述 | RSS  |  最新内容 |
 | --- | --- | --- | --- |  --- |
 | <h2 id="软件工具">競業監控</h2> |  |   |  |
-| 競業 | ABC-公告 | abc好車網主站公告 | [‣ 2021/10/08 \| 歡慶振興 實在開心 促銷優惠大放送 \| 2021-11-12](https://www.abccar.com.tw/news/detail?id=1314)<br/>[‣ 2021/07/06 \| abc好車網新服務-儲值金方案 \| 2021-11-12](https://www.abccar.com.tw/news/detail?id=1313)  |  [订阅地址](https://feed43.com/0564117341674331.xml) |  
+| 競業 | ABC-公告 | abc好車網主站公告 | [‣ 2021/10/08 \| 歡慶振興 實在開心 促銷優惠大放送 🌈 2021-11-14](https://www.abccar.com.tw/news/detail?id=1314)<br/>[‣ 2021/07/06 \| abc好車網新服務-儲值金方案 🌈 2021-11-14](https://www.abccar.com.tw/news/detail?id=1313)  |  [订阅地址](https://feed43.com/0564117341674331.xml) |  
 | 競業 | ABC-LINE | abc好車網LINE貼文 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://feed43.com)  |  [订阅地址](https://feed43.com/0201422374304725.xml) |  
-| 競業 | ABC-Facebook | abc好車網臉書貼文 | [‣ Abc好車網 \| 2021-11-12](https://www.facebook.com/959277324083390/posts/4875939355750481/)<br/>[‣ 台北下班哪裡最塞掀起討論　網友：整個台北都是停車場！ - Yahoo奇摩汽車機車 \| 2021-11-12](https://www.facebook.com/959277324083390/posts/4872239246120492/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba526139aa9395ab61464f2e42b2.xml) |  
-| 競業 | ABC-YouTube | abc好車網油管影片 | [‣ Abc好車網 \| 2021-11-12](https://www.facebook.com/959277324083390/posts/4875939355750481/)<br/>[‣ 台北下班哪裡最塞掀起討論　網友：整個台北都是停車場！ - Yahoo奇摩汽車機車 \| 2021-11-12](https://www.facebook.com/959277324083390/posts/4872239246120492/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba526139aa9395ab61464f2e42b2.xml) |  
+| 競業 | ABC-Facebook | abc好車網臉書貼文 | [‣ 新手女駕駛國道遭逼車　紅斑馬教你打怪破解平安歸！ - Yahoo奇摩汽車機車 \| 2021-11-13](https://www.facebook.com/959277324083390/posts/4866052600072490/)<br/>[‣ Abc好車網 \| 2021-11-13](https://www.facebook.com/959277324083390/posts/4875939355750481/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba526139aa9395ab61464f2e42b2.xml) |  
+| 競業 | ABC-YouTube | abc好車網油管影片 | [‣ 新手女駕駛國道遭逼車　紅斑馬教你打怪破解平安歸！ - Yahoo奇摩汽車機車 \| 2021-11-13](https://www.facebook.com/959277324083390/posts/4866052600072490/)<br/>[‣ Abc好車網 \| 2021-11-13](https://www.facebook.com/959277324083390/posts/4875939355750481/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba526139aa9395ab61464f2e42b2.xml) |  
 | 聯盟 | SAVE-YouTube | SAVE油管影片 | [‣ 2016年 MAZDA 6 優惠價：65.8萬 廣一汽車 0910-751521 \| 2021-07-30](https://www.youtube.com/watch?v=RrBn9tUbpcY)<br/>[‣ 2018年 SUZUKI VITARA 優惠價：63.8萬 SAVE認證車 廣一汽車 0910-751521 \| 2021-07-30](https://www.youtube.com/watch?v=GDucdKh2krA)  |  [订阅地址](https://www.youtube.com/feeds/videos.xml?channel_id=UCR-5EmPDvnZbF6Q_WVbA_RA) |  
 | 聯盟 | HOT-YouTube | HOT油管影片 | [‣ 【跟著HOT老司機吃喝玩樂】詮峰汽車 全羊料理、像蛇一樣的窯!?｜HOT大聯盟 \| 2021-08-02](https://www.youtube.com/watch?v=E8Tu4xiv7p4)<br/>[‣ 【跟著HOT老司機吃喝玩樂】塑騰汽車ft.哥極辣 三合手作麵線、ART BAR｜HOT大聯盟 \| 2021-08-02](https://www.youtube.com/watch?v=r33NBqmBRAI)  |  [订阅地址](https://www.youtube.com/feeds/videos.xml?channel_id=UC4oNiwJigIW9EW3KHrVQ2QQ) |
 | 聯盟 | SUM-YouTube | SUM油管影片 | [‣ 【SUM中古車】MITSUBISHI NEW CANTER 2021年 全新中獎車/11尺半車斗/整合式行車視野輔助系統/原廠保固 彰化縣 \| 2021-11-12](https://www.youtube.com/watch?v=-q1BG9ahMKo)<br/>[‣ 【SUM中古車】SUBARU IMPREZA 2019年 近全新 一手車 EyeSight系統 實跑3千 天窗 倒車顯影 跟車 雙區恆溫 新北市 樹林 \| 2021-11-12](https://www.youtube.com/watch?v=vG85jivZTXs)  |  [订阅地址](https://www.youtube.com/feeds/videos.xml?channel_id=UCM5Vfp-YI1lxpV0C6lgc-RQ) | 
 | 聯盟 | SAVE-Facebook | SAVE臉書貼文 | [‣ 汽車上路前！該不該原地怠速熱車呢！？│愛車小百科-SAVE認證車聯盟 \| 2021-11-12](https://www.facebook.com/226870563993800/posts/5113861258628015/)<br/>[‣ SAVE認證車聯盟 \| 2021-11-12](https://www.facebook.com/226870563993800/posts/5111169128897228/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba526140298e8966b30d012fc4a2.xml) |  
-| 聯盟 | HOT-Facebook | HOT臉書貼文 | [‣ 想買好車💗就到桃園丞鎰汽車 \| 2021-11-12](https://www.facebook.com/1612263792147064/posts/6534643889909005/)<br/>[‣ 開車安全不是靠運氣！「防禦駕駛」 8 大要點 老司機新手都要學會 - 自由電子報汽車頻道 \| 2021-11-12](https://www.facebook.com/1612263792147064/posts/6549550791751648/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba52614029d2ffc9da29576adf12.xml) |
-| 聯盟 | SUM-Facebook | SUM臉書貼文 | [‣ 跟天氣一樣冷的冷知識☃️多數車款的儀表板上都有標示，先找油箱符號，就會看到一個三角形箭頭，指向哪邊油箱蓋就在哪邊喔🤓#汽車 #冷知識 #中古車 #二手車 #SUM #SUM汽車網 #汽車知識 \| 2021-11-12](https://www.facebook.com/195510460484243/posts/4441709805864266/)<br/>[‣ SUM中古車汽車網's cover photo \| 2021-11-12](https://www.facebook.com/195510460484243/posts/4438177119550868/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba5261402a0069c0fb34c1726fe2.xml) | 
+| 聯盟 | HOT-Facebook | HOT臉書貼文 | [‣ 2021桃園仙草花節準備登場！最新賞花秘境就在這，一起沈浸在夢幻紫色花海中吧 \| PopDaily 波波黛莉 \| 2021-11-13](https://www.facebook.com/1612263792147064/posts/6512889285417799/)<br/>[‣ 想買好車💗就到桃園丞鎰汽車 \| 2021-11-13](https://www.facebook.com/1612263792147064/posts/6534643889909005/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba52614029d2ffc9da29576adf12.xml) |
+| 聯盟 | SUM-Facebook | SUM臉書貼文 | [‣ 旋鈕式排檔及傳統排檔桿 你要選哪一個? \| 發燒車訊 \| 2021-11-13](https://www.facebook.com/195510460484243/posts/4441691189199461/)<br/>[‣ 跟天氣一樣冷的冷知識☃️多數車款的儀表板上都有標示，先找油箱符號，就會看到一個三角形箭頭，指向哪邊油箱蓋就在哪邊喔🤓#汽車 #冷知識 #中古車 #二手車 #SUM #SUM汽車網 #汽車知識 \| 2021-11-13](https://www.facebook.com/195510460484243/posts/4441709805864266/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba5261402a0069c0fb34c1726fe2.xml) | 
 | 聯盟 | SUM-LINE | SUMLINE貼文 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://feed43.com)  |  [订阅地址](https://feed43.com/0745227586345257.xml) | 
 | 監理站 | 監理站-公告 | 監理站公告 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://feed43.com)  |  [订阅地址](https://feed43.com/5280011564810400.xml) |
 
