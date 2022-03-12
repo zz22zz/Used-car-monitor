@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集12个RSS源, 生成时间: 2022-03-12 06:10:27)
+# Github Actions Rss (garss, 嘎RSS! 已收集12个RSS源, 生成时间: 2022-03-13 06:09:43)
 
 
 [《嘎!RSS》永久开源页面: https://github.com/zhaoolee/garss](https://github.com/zhaoolee/garss)
@@ -11,9 +11,9 @@
 2. 利用Github Actions, 搜集全部RSS的头版头条新闻标题和超链接, 并自动更新到首页,当天最新发布的文章会出现🌈 标志
 
 邮件内容区开始>
-<h2>新蒸熟11个小蛋糕🍰(文章) 生产时间 2022-03-12 06:10:27 保质期24小时</h2>
+<h2>新蒸熟0个小蛋糕🍰(文章) 生产时间 2022-03-13 06:09:43 保质期24小时</h2>
 
-<div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.abccar.com.tw/news/detail?id=1315' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 2022/02/24 | 春季賞車抽好禮·萬元購車金送給你 | 第1篇</a></div><div style='line-height:3;' ><a href='https://www.abccar.com.tw/news/detail?id=1313' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 2021/07/06 | abc好車網新服務-儲值金方案 | 第2篇</a></div><div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.abccar.com.tw/news/detail?id=1312' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 2021/05/28 | 疫情期間 持續賺錢的最佳選擇 | 第3篇</a></div><div style='line-height:3;' ><a href='https://www.abccar.com.tw/news/detail?id=1311' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 2021/05/17 | abc好車網 新增line聯繫賣家功能 | 第4篇</a></div><div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.abccar.com.tw/news/detail?id=1310' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 2021/05/19 | abc好車網-過戶收費期間調整說明 | 第5篇</a></div><div style='line-height:3;' ><a href='https://www.abccar.com.tw/news/detail?id=1309' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 2021/04/22 | 館別調整說明 | 第6篇</a></div><div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.abccar.com.tw/news/detail?id=1308' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 2021/03/22 | abc好車網最新優惠公告 | 第7篇</a></div><div style='line-height:3;' ><a href='https://www.abccar.com.tw/news/detail?id=1307' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 2021/03/18 | 💰好車網超優惠促銷大放送💰 | 第8篇</a></div><div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.abccar.com.tw/news/detail?id=1306' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 2021/03/12 | 2021全新abc好車網電視廣告全新登場 | 第9篇</a></div><div style='line-height:3;' ><a href='https://www.facebook.com/959277324083390/posts/5286095811401498/' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 有這種哥哥 就不怕駕照考不過了 | 第10篇</a></div><div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.facebook.com/959277324083390/posts/5286095811401498/' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 有這種哥哥 就不怕駕照考不過了 | 第11篇</a></div>
+
 
 <邮件内容区结束
 
@@ -22,10 +22,10 @@
 | 標註 | 名称 | 描述 | RSS  |  最新内容 |
 | --- | --- | --- | --- |  --- |
 | <h2 id="软件工具">競業監控</h2> |  |   |  |
-| 競業 | ABC-公告 | abc好車網主站公告 | [‣ 2022/02/24 \| 春季賞車抽好禮·萬元購車金送給你 🌈 2022-03-11](https://www.abccar.com.tw/news/detail?id=1315)<br/>[‣ 2021/07/06 \| abc好車網新服務-儲值金方案 🌈 2022-03-11](https://www.abccar.com.tw/news/detail?id=1313)  |  [订阅地址](https://feed43.com/0564117341674331.xml) |  
+| 競業 | ABC-公告 | abc好車網主站公告 | [‣ 2022/02/24 \| 春季賞車抽好禮·萬元購車金送給你 \| 2022-03-11](https://www.abccar.com.tw/news/detail?id=1315)<br/>[‣ 2021/07/06 \| abc好車網新服務-儲值金方案 \| 2022-03-11](https://www.abccar.com.tw/news/detail?id=1313)  |  [订阅地址](https://feed43.com/0564117341674331.xml) |  
 | 競業 | ABC-LINE | abc好車網LINE貼文 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://feed43.com)  |  [订阅地址](https://feed43.com/0201422374304725.xml) |  
-| 競業 | ABC-Facebook | abc好車網臉書貼文 | [‣ 有這種哥哥 就不怕駕照考不過了 🌈 2022-03-11](https://www.facebook.com/959277324083390/posts/5286095811401498/)<br/>[‣ 垃圾車上有菜刀!?是要防誰啦 🌈 2022-03-11](https://www.facebook.com/959277324083390/posts/5286244584719954/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba526139aa9395ab61464f2e42b2.xml) |  
-| 競業 | ABC-YouTube | abc好車網油管影片 | [‣ 有這種哥哥 就不怕駕照考不過了 🌈 2022-03-11](https://www.facebook.com/959277324083390/posts/5286095811401498/)<br/>[‣ 垃圾車上有菜刀!?是要防誰啦 🌈 2022-03-11](https://www.facebook.com/959277324083390/posts/5286244584719954/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba526139aa9395ab61464f2e42b2.xml) |  
+| 競業 | ABC-Facebook | abc好車網臉書貼文 | [‣ 有這種哥哥 就不怕駕照考不過了 \| 2022-03-11](https://www.facebook.com/959277324083390/posts/5286095811401498/)<br/>[‣ 垃圾車上有菜刀!?是要防誰啦 \| 2022-03-11](https://www.facebook.com/959277324083390/posts/5286244584719954/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba526139aa9395ab61464f2e42b2.xml) |  
+| 競業 | ABC-YouTube | abc好車網油管影片 | [‣ 有這種哥哥 就不怕駕照考不過了 \| 2022-03-11](https://www.facebook.com/959277324083390/posts/5286095811401498/)<br/>[‣ 垃圾車上有菜刀!?是要防誰啦 \| 2022-03-11](https://www.facebook.com/959277324083390/posts/5286244584719954/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba526139aa9395ab61464f2e42b2.xml) |  
 | 聯盟 | SAVE-YouTube | SAVE油管影片 | [‣ 中古車 推薦【SAVE認證車】2018年  BMW X2 sDrive18i M Sport X  #榮耀汽車 #認證中古車 #優質二手車 #新北市 #新店區 \| 2022-03-07](https://www.youtube.com/watch?v=ilIMt2KRmy4)<br/>[‣ 中古車 推薦【SAVE認證車】2012年Porsche Cayenne Tiptronic #榮耀汽車 #認證中古車 #優質二手車 #新北市 #新店區 \| 2022-03-07](https://www.youtube.com/watch?v=cSA9uwO5JJM)  |  [订阅地址](https://www.youtube.com/feeds/videos.xml?channel_id=UCR-5EmPDvnZbF6Q_WVbA_RA) |  
 | 聯盟 | HOT-YouTube | HOT油管影片 | [‣ 🌸春風得意暢快行🌸 \| 2022-03-02](https://www.youtube.com/watch?v=USsVyKO9l24)<br/>[‣ 【跟著HOT老司機吃喝玩樂】賽特汽車ft.哥極辣 修車廠雞蛋糕店、道地日式拉麵 \| 2022-03-02](https://www.youtube.com/watch?v=l1pqKPbd_UY)  |  [订阅地址](https://www.youtube.com/feeds/videos.xml?channel_id=UC4oNiwJigIW9EW3KHrVQ2QQ) |
 | 聯盟 | SUM-YouTube | SUM油管影片 | [‣ 【SUM中古車】2019年SUBARU IMPREZA1.6Eyesight 只跑4萬公里 SAWD全時四輪驅動 水平對臥引擎 全速域ACC (高雄) \| 2022-03-09](https://www.youtube.com/watch?v=_xueH9ciPkY)<br/>[‣ 【SUM中古車】MITSUBISHI COLT PLUS 2021領牌/超新一手車/低里程/車況佳/實車實價/車況保證/里程保證! (屏東久立汽車) \| 2022-03-09](https://www.youtube.com/watch?v=_Fi8MvJCfsQ)  |  [订阅地址](https://www.youtube.com/feeds/videos.xml?channel_id=UCM5Vfp-YI1lxpV0C6lgc-RQ) | 
