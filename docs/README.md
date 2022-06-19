@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集12个RSS源, 生成时间: 2022-06-19 06:09:19)
+# Github Actions Rss (garss, 嘎RSS! 已收集12个RSS源, 生成时间: 2022-06-20 06:09:26)
 
 
 [《嘎!RSS》永久开源页面: https://github.com/zhaoolee/garss](https://github.com/zhaoolee/garss)
@@ -11,9 +11,9 @@
 2. 利用Github Actions, 搜集全部RSS的头版头条新闻标题和超链接, 并自动更新到首页,当天最新发布的文章会出现🌈 标志
 
 邮件内容区开始>
-<h2>新蒸熟0个小蛋糕🍰(文章) 生产时间 2022-06-19 06:09:19 保质期24小时</h2>
+<h2>新蒸熟1个小蛋糕🍰(文章) 生产时间 2022-06-20 06:09:26 保质期24小时</h2>
 
-
+<div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.facebook.com/195510460484243/posts/5123460257689214/' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 加油要快 中油：明日起汽、柴油各調漲0.1元 | 熱門話題 | 要聞 | 經濟日報 | 第1篇</a></div>
 
 <邮件内容区结束
 
@@ -31,7 +31,7 @@
 | 聯盟 | SUM-YouTube | SUM油管影片 | [‣ 【SUM中古車】BENZ C-CLASS SEDAN W205 C300 正AMG-C300 里程保證/2015年 台南市 \| 2022-06-17](https://www.youtube.com/watch?v=zmtJbThBJhI)<br/>[‣ 【SUM中古車】遮陽板小知識知多少？｜SUM汽車教室 \| 2022-06-17](https://www.youtube.com/watch?v=CxjmKu4-3aQ)  |  [订阅地址](https://www.youtube.com/feeds/videos.xml?channel_id=UCM5Vfp-YI1lxpV0C6lgc-RQ) | 
 | 聯盟 | SAVE-Facebook | SAVE臉書貼文 | [‣ 汽車空調系統不NG！三招讓你夏日開車透心涼│台灣中古車/二手車的專家-解決你買賣中古車/二手車的大小事 \| 2022-06-17](https://www.facebook.com/226870563993800/posts/5812197882127679/)<br/>[‣ SAVE認證車聯盟 \| 2022-06-17](https://www.facebook.com/226870563993800/posts/5815765365104264/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba526140298e8966b30d012fc4a2.xml) |  
 | 聯盟 | HOT-Facebook | HOT臉書貼文 | [‣ HOT 大聯盟中古車網 \| 2022-06-15](https://www.facebook.com/1612263792147064/posts/7717481254958590/)<br/>[‣ 【#HOT新朋友來報到】#泳昌汽車🚗 https://bit.ly/3OcqkmW📞電話：0929-112536🌎地址：台南市北區海安路三段988號#台南買車 #二手車 #中古車 #HOT大聯盟 \| 2022-06-15](https://www.facebook.com/1612263792147064/posts/7708305885876127/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba52614029d2ffc9da29576adf12.xml) |
-| 聯盟 | SUM-Facebook | SUM臉書貼文 | [‣ SUM專業鈑噴中心簡介 \| 2022-06-09](https://www.facebook.com/195510460484243/posts/5095814767120430/)<br/>[‣ 快訊／油價明起降價「加油等等！」　九二汽油降至30元大關以下 \| ETtoday財經雲 \| ETtoday新聞雲 \| 2022-06-09](https://www.facebook.com/195510460484243/posts/5087973577904549/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba5261402a0069c0fb34c1726fe2.xml) | 
+| 聯盟 | SUM-Facebook | SUM臉書貼文 | [‣ 加油要快 中油：明日起汽、柴油各調漲0.1元 \| 熱門話題 \| 要聞 \| 經濟日報 🌈 2022-06-19](https://www.facebook.com/195510460484243/posts/5123460257689214/)<br/>[‣ SUM專業鈑噴中心簡介 🌈 2022-06-19](https://www.facebook.com/195510460484243/posts/5095814767120430/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba5261402a0069c0fb34c1726fe2.xml) | 
 | 聯盟 | SUM-LINE | SUMLINE貼文 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://feed43.com)  |  [订阅地址](https://feed43.com/0745227586345257.xml) | 
 | 監理站 | 監理站-公告 | 監理站公告 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://feed43.com)  |  [订阅地址](https://feed43.com/5280011564810400.xml) |
 
