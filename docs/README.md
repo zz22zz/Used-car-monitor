@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集12个RSS源, 生成时间: 2022-08-21 06:10:17)
+# Github Actions Rss (garss, 嘎RSS! 已收集12个RSS源, 生成时间: 2022-08-22 06:10:27)
 
 
 [《嘎!RSS》永久开源页面: https://github.com/zhaoolee/garss](https://github.com/zhaoolee/garss)
@@ -11,9 +11,9 @@
 2. 利用Github Actions, 搜集全部RSS的头版头条新闻标题和超链接, 并自动更新到首页,当天最新发布的文章会出现🌈 标志
 
 邮件内容区开始>
-<h2>新蒸熟0个小蛋糕🍰(文章) 生产时间 2022-08-21 06:10:17 保质期24小时</h2>
+<h2>新蒸熟9个小蛋糕🍰(文章) 生产时间 2022-08-22 06:10:27 保质期24小时</h2>
 
-
+<div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.abccar.com.tw/news/detail?id=1316' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 2022/03/31 | abc好車網服務費調整通知 | 第1篇</a></div><div style='line-height:3;' ><a href='https://www.abccar.com.tw/news/detail?id=1313' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 2021/07/06 | abc好車網新服務-儲值金方案 | 第2篇</a></div><div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.abccar.com.tw/news/detail?id=1312' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 2021/05/28 | 疫情期間 持續賺錢的最佳選擇 | 第3篇</a></div><div style='line-height:3;' ><a href='https://www.abccar.com.tw/news/detail?id=1311' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 2021/05/17 | abc好車網 新增line聯繫賣家功能 | 第4篇</a></div><div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.abccar.com.tw/news/detail?id=1310' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 2021/05/19 | abc好車網-過戶收費期間調整說明 | 第5篇</a></div><div style='line-height:3;' ><a href='https://www.abccar.com.tw/news/detail?id=1309' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 2021/04/22 | 館別調整說明 | 第6篇</a></div><div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.abccar.com.tw/news/detail?id=1307' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 2021/03/18 | 💰好車網超優惠促銷大放送💰 | 第7篇</a></div><div style='line-height:3;' ><a href='https://www.abccar.com.tw/news/detail?id=1306' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 2021/03/12 | 2021全新abc好車網電視廣告全新登場 | 第8篇</a></div><div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.abccar.com.tw/news/detail?id=1305' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 2021/03/01 | abc好車網新收費模式說明 | 第9篇</a></div>
 
 <邮件内容区结束
 
@@ -22,15 +22,15 @@
 | 標註 | 名称 | 描述 | RSS  |  最新内容 |
 | --- | --- | --- | --- |  --- |
 | <h2 id="软件工具">競業監控</h2> |  |   |  |
-| 競業 | ABC-公告 | abc好車網主站公告 | [‣ 2022/03/31 \| abc好車網服務費調整通知 \| 2022-08-19](https://www.abccar.com.tw/news/detail?id=1316)<br/>[‣ 2021/07/06 \| abc好車網新服務-儲值金方案 \| 2022-08-19](https://www.abccar.com.tw/news/detail?id=1313)  |  [订阅地址](https://feed43.com/0564117341674331.xml) |  
+| 競業 | ABC-公告 | abc好車網主站公告 | [‣ 2022/03/31 \| abc好車網服務費調整通知 🌈 2022-08-21](https://www.abccar.com.tw/news/detail?id=1316)<br/>[‣ 2021/07/06 \| abc好車網新服務-儲值金方案 🌈 2022-08-21](https://www.abccar.com.tw/news/detail?id=1313)  |  [订阅地址](https://feed43.com/0564117341674331.xml) |  
 | 競業 | ABC-LINE | abc好車網LINE貼文 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://feed43.com)  |  [订阅地址](https://feed43.com/0201422374304725.xml) |  
-| 競業 | ABC-Facebook | abc好車網臉書貼文 | [‣ 安全車距怎麼算一白一空格剛好是 10 公尺 \| 2022-08-12](https://www.facebook.com/959277324083390/posts/5732220040122404/)<br/>[‣ Abc好車網 \| 2022-08-12](https://www.facebook.com/959277324083390/posts/5733068993370842/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba526139aa9395ab61464f2e42b2.xml) |  
-| 競業 | ABC-YouTube | abc好車網油管影片 | [‣ 安全車距怎麼算一白一空格剛好是 10 公尺 \| 2022-08-12](https://www.facebook.com/959277324083390/posts/5732220040122404/)<br/>[‣ Abc好車網 \| 2022-08-12](https://www.facebook.com/959277324083390/posts/5733068993370842/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba526139aa9395ab61464f2e42b2.xml) |  
+| 競業 | ABC-Facebook | abc好車網臉書貼文 | [‣ 進隧道前就選定車道不然罰3千喔 \| 2022-08-20](https://www.facebook.com/959277324083390/posts/5752924248051983/)<br/>[‣ 雖然副駕車位限乘辣妹但還是要考慮駕駛感受 \| 2022-08-20](https://www.facebook.com/959277324083390/posts/5749797058364702/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba526139aa9395ab61464f2e42b2.xml) |  
+| 競業 | ABC-YouTube | abc好車網油管影片 | [‣ 進隧道前就選定車道不然罰3千喔 \| 2022-08-20](https://www.facebook.com/959277324083390/posts/5752924248051983/)<br/>[‣ 雖然副駕車位限乘辣妹但還是要考慮駕駛感受 \| 2022-08-20](https://www.facebook.com/959277324083390/posts/5749797058364702/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba526139aa9395ab61464f2e42b2.xml) |  
 | 聯盟 | SAVE-YouTube | SAVE油管影片 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.youtube.com)  |  [订阅地址](https://www.youtube.com/feeds/videos.xml?channel_id=UCR-5EmPDvnZbF6Q_WVbA_RA) |  
 | 聯盟 | HOT-YouTube | HOT油管影片 | [‣ HOT狂夏盛典 買車保養通通有獎 \| 2022-06-02](https://www.youtube.com/watch?v=M8dsTGX00B4)<br/>[‣ 🌸春風得意暢快行🌸 \| 2022-06-02](https://www.youtube.com/watch?v=USsVyKO9l24)  |  [订阅地址](https://www.youtube.com/feeds/videos.xml?channel_id=UC4oNiwJigIW9EW3KHrVQ2QQ) |
 | 聯盟 | SUM-YouTube | SUM油管影片 | [‣ 【SUM中古車】SUBARU IMPREZA 2017年 一手車 頂級5門款 I-KEY~可保固~可全額貸款~實跑8萬新北市 \| 2022-08-16](https://www.youtube.com/watch?v=A8h4ObsCEX4)<br/>[‣ 【SUM中古車】 MAZDA CX-3 2016年小鋼炮 馬自達美學 頂配/盲點/循跡防滑/天窗/I KEY  嘉義縣 民雄鄉 \| 2022-08-16](https://www.youtube.com/watch?v=_rHAersxXCE)  |  [订阅地址](https://www.youtube.com/feeds/videos.xml?channel_id=UCM5Vfp-YI1lxpV0C6lgc-RQ) | 
-| 聯盟 | SAVE-Facebook | SAVE臉書貼文 | [‣ 中古車聯盟攻略：每家車商都有認證，到底該選哪一間？現在就讓廣一汽車告訴你│台灣中古車/二手車的專家-解決你買賣中古車/二手車的大小事 \| 2022-08-12](https://www.facebook.com/226870563993800/posts/5969999636347502/)<br/>[‣ SAVE認證車聯盟 \| 2022-08-12](https://www.facebook.com/226870563993800/posts/5975866799094119/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba526140298e8966b30d012fc4a2.xml) |  
-| 聯盟 | HOT-Facebook | HOT臉書貼文 | [‣ 排檔桿上面有花是甚麼裝飾品嗎？ \| 2022-08-12](https://www.facebook.com/1612263792147064/posts/7988014264571953/)<br/>[‣ 【中元招好運撇步👉】 一年一度的中元時節，除了拿到好吃的糖果泡麵餅乾外🍭🥨🍩如果還想和運氣靠近一點~小編提供你幾個招好運撇步🤟撇步❶--準備你的完勝履歷 撇步❷--按下JOIN和運租車🏢傳送門👉https://pse.is/4dp6h7 撇步❸-... \| 2022-08-12](https://www.facebook.com/1612263792147064/posts/7983799571660089/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba52614029d2ffc9da29576adf12.xml) |
+| 聯盟 | SAVE-Facebook | SAVE臉書貼文 | [‣ Toyota Altis 傳說中的神Ａ│台灣中古車/二手車的專家-解決你買賣中古車/二手車的大小事 \| 2022-08-19](https://www.facebook.com/226870563993800/posts/5986894884657977/)<br/>[‣ This content isn't available right now \| 2022-08-19](https://www.facebook.com/226870563993800/posts/5995860787094720/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba526140298e8966b30d012fc4a2.xml) |  
+| 聯盟 | HOT-Facebook | HOT臉書貼文 | [‣ 因小失大小心警察就在你身後 \| 2022-08-19](https://www.facebook.com/1612263792147064/posts/8016751198364926/)<br/>[‣ 中秋出遊使用替代道路不然就要在國道賞月 \| 2022-08-19](https://www.facebook.com/1612263792147064/posts/8011810068859039/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba52614029d2ffc9da29576adf12.xml) |
 | 聯盟 | SUM-Facebook | SUM臉書貼文 | [‣ Photos from SUM中古車汽車網's post \| 2022-08-12](https://www.facebook.com/195510460484243/posts/5271772349524670/)<br/>[‣ 爸爸的關懷總是像一把傘為我們遮風避雨❤SUM祝各位超級英雄爸爸們 #父親節快樂 😍😍😍 \| 2022-08-12](https://www.facebook.com/195510460484243/posts/5253535174681721/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba5261402a0069c0fb34c1726fe2.xml) | 
 | 聯盟 | SUM-LINE | SUMLINE貼文 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://feed43.com)  |  [订阅地址](https://feed43.com/0745227586345257.xml) | 
 | 監理站 | 監理站-公告 | 監理站公告 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://feed43.com)  |  [订阅地址](https://feed43.com/5280011564810400.xml) |
