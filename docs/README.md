@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集12个RSS源, 生成时间: 2022-08-28 06:10:21)
+# Github Actions Rss (garss, 嘎RSS! 已收集12个RSS源, 生成时间: 2022-08-29 06:10:33)
 
 
 [《嘎!RSS》永久开源页面: https://github.com/zhaoolee/garss](https://github.com/zhaoolee/garss)
@@ -11,9 +11,9 @@
 2. 利用Github Actions, 搜集全部RSS的头版头条新闻标题和超链接, 并自动更新到首页,当天最新发布的文章会出现🌈 标志
 
 邮件内容区开始>
-<h2>新蒸熟1个小蛋糕🍰(文章) 生产时间 2022-08-28 06:10:21 保质期24小时</h2>
+<h2>新蒸熟0个小蛋糕🍰(文章) 生产时间 2022-08-29 06:10:33 保质期24小时</h2>
 
-<div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.facebook.com/959277324083390/posts/5762000807144327/' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 車尾的貼紙有這些含意你還看過那些呢 | 第1篇</a></div>
+
 
 <邮件内容区结束
 
@@ -22,10 +22,10 @@
 | 標註 | 名称 | 描述 | RSS  |  最新内容 |
 | --- | --- | --- | --- |  --- |
 | <h2 id="软件工具">競業監控</h2> |  |   |  |
-| 競業 | ABC-公告 | abc好車網主站公告 | [‣ 2022/03/31 \| abc好車網服務費調整通知 \| 2022-08-25](https://www.abccar.com.tw/news/detail?id=1316)<br/>[‣ 2021/07/06 \| abc好車網新服務-儲值金方案 \| 2022-08-25](https://www.abccar.com.tw/news/detail?id=1313)  |  [订阅地址](https://feed43.com/0564117341674331.xml) |  
+| 競業 | ABC-公告 | abc好車網主站公告 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://feed43.com)  |  [订阅地址](https://feed43.com/0564117341674331.xml) |  
 | 競業 | ABC-LINE | abc好車網LINE貼文 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://feed43.com)  |  [订阅地址](https://feed43.com/0201422374304725.xml) |  
-| 競業 | ABC-Facebook | abc好車網臉書貼文 | [‣ 車尾的貼紙有這些含意你還看過那些呢 🌈 2022-08-27](https://www.facebook.com/959277324083390/posts/5762000807144327/)<br/>[‣ 開引擎蓋散熱會不會多此一舉 🌈 2022-08-27](https://www.facebook.com/959277324083390/posts/5764813003529774/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba526139aa9395ab61464f2e42b2.xml) |  
-| 競業 | ABC-YouTube | abc好車網油管影片 | [‣ 車尾的貼紙有這些含意你還看過那些呢 🌈 2022-08-27](https://www.facebook.com/959277324083390/posts/5762000807144327/)<br/>[‣ 開引擎蓋散熱會不會多此一舉 🌈 2022-08-27](https://www.facebook.com/959277324083390/posts/5764813003529774/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba526139aa9395ab61464f2e42b2.xml) |  
+| 競業 | ABC-Facebook | abc好車網臉書貼文 | [‣ 車尾的貼紙有這些含意你還看過那些呢 \| 2022-08-27](https://www.facebook.com/959277324083390/posts/5762000807144327/)<br/>[‣ 開引擎蓋散熱會不會多此一舉 \| 2022-08-27](https://www.facebook.com/959277324083390/posts/5764813003529774/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba526139aa9395ab61464f2e42b2.xml) |  
+| 競業 | ABC-YouTube | abc好車網油管影片 | [‣ 車尾的貼紙有這些含意你還看過那些呢 \| 2022-08-27](https://www.facebook.com/959277324083390/posts/5762000807144327/)<br/>[‣ 開引擎蓋散熱會不會多此一舉 \| 2022-08-27](https://www.facebook.com/959277324083390/posts/5764813003529774/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba526139aa9395ab61464f2e42b2.xml) |  
 | 聯盟 | SAVE-YouTube | SAVE油管影片 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.youtube.com)  |  [订阅地址](https://www.youtube.com/feeds/videos.xml?channel_id=UCR-5EmPDvnZbF6Q_WVbA_RA) |  
 | 聯盟 | HOT-YouTube | HOT油管影片 | [‣ HOT狂夏盛典 買車保養通通有獎 \| 2022-06-02](https://www.youtube.com/watch?v=M8dsTGX00B4)<br/>[‣ 🌸春風得意暢快行🌸 \| 2022-06-02](https://www.youtube.com/watch?v=USsVyKO9l24)  |  [订阅地址](https://www.youtube.com/feeds/videos.xml?channel_id=UC4oNiwJigIW9EW3KHrVQ2QQ) |
 | 聯盟 | SUM-YouTube | SUM油管影片 | [‣ 【SUM中古車】帶你看人生翻轉車，優質代步車，YES認證通過揭露/SUM五大保固 五大保證 雲林縣 虎尾鎮 \| 2022-08-26](https://www.youtube.com/watch?v=ytoh3BJJf4E)<br/>[‣ 【SUM中古車】TOYOTA CAMRY 2019 免鑰匙啟動/抬頭顯示器/電動椅 彰化縣 #SUM汽車網 #永大汽車 #TOYOTA #CAMRY #二手車 \| 2022-08-26](https://www.youtube.com/watch?v=pvqeEEpqk1w)  |  [订阅地址](https://www.youtube.com/feeds/videos.xml?channel_id=UCM5Vfp-YI1lxpV0C6lgc-RQ) | 
