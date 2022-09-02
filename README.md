@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集12个RSS源, 生成时间: 2022-09-02 06:11:00)
+# Github Actions Rss (garss, 嘎RSS! 已收集12个RSS源, 生成时间: 2022-09-03 06:11:10)
 
 
 [《嘎!RSS》永久开源页面: https://github.com/zhaoolee/garss](https://github.com/zhaoolee/garss)
@@ -11,9 +11,9 @@
 2. 利用Github Actions, 搜集全部RSS的头版头条新闻标题和超链接, 并自动更新到首页,当天最新发布的文章会出现🌈 标志
 
 邮件内容区开始>
-<h2>新蒸熟1个小蛋糕🍰(文章) 生产时间 2022-09-02 06:11:00 保质期24小时</h2>
+<h2>新蒸熟8个小蛋糕🍰(文章) 生产时间 2022-09-03 06:11:10 保质期24小时</h2>
 
-<div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.youtube.com/watch?v=njlavtON4k0' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 【HOT保修小學堂】 車子也會中暑!? 夏季保養照過來 | 第1篇</a></div>
+<div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.youtube.com/watch?v=-eN_zzG7dr4' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 【SUM中古車】LUXGEN U6 GT 旗艦版 新車101.9萬  222P馬力 空力套件2018年 台南市 | 第1篇</a></div><div style='line-height:3;' ><a href='https://www.youtube.com/watch?v=54NPQ91_wOQ' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 【SUM中古車】HONDA HR-V S版 全車原鈑件 內外漂亮 2019年 台南市 | 第2篇</a></div><div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.youtube.com/watch?v=2ieHnVKUr2E' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 【SUM中古車】MITSUBISHI LANCER IO 一手車 原鈑件 無事故 定期保養 履歷完整 車況優良  2015年 台南市 | 第3篇</a></div><div style='line-height:3;' ><a href='https://www.youtube.com/watch?v=bCl4Sf0yWv0' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 【SUM中古車】NISSAN MARCH 都會省油小車 一手車 原版件 車況漂亮 胎紋新 迴轉半徑小  2013年 台南市 | 第4篇</a></div><div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.youtube.com/watch?v=EL0wAUR6oug' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 【SUM中古車】TOYOTA CAMRY 頂級尊爵版 新車價101.9萬 原廠保養 僅跑6萬  2018年 台南市 | 第5篇</a></div><div style='line-height:3;' ><a href='https://www.youtube.com/watch?v=VrAP8QIrT5Q' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 【SUM中古車】TOYOTA WISH 2013年 中古市場少出現的Ｉ－ＫＥＹ免鑰匙版本 循跡防滑 恆溫空調胎壓偵測電動椅 嘉義縣 水上鄉 | 第6篇</a></div><div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.youtube.com/watch?v=1MZnT1EH79w' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 【SUM中古車】TOYOTA VIOS 18年式 僅跑4萬 輪胎9成新 實惠 可靠 耐用  2017年 台南市 | 第7篇</a></div><div style='line-height:3;' ><a href='https://www.youtube.com/watch?v=p9SeFGpcjhw' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 【SUM中古車】TOYOTA RAV4 2017年  尊爵版RAV4，ACC跟車/I-KEY/導航/定速/冷氣恆溫/電動調整/7SRS氣囊/電動椅 嘉義縣 水上鄉 | 第8篇</a></div>
 
 <邮件内容区结束
 
@@ -22,13 +22,13 @@
 | 標註 | 名称 | 描述 | RSS  |  最新内容 |
 | --- | --- | --- | --- |  --- |
 | <h2 id="软件工具">競業監控</h2> |  |   |  |
-| 競業 | ABC-公告 | abc好車網主站公告 | [‣ 2022/03/31 \| abc好車網服務費調整通知 \| 2022-08-29](https://www.abccar.com.tw/news/detail?id=1316)<br/>[‣ 2021/07/06 \| abc好車網新服務-儲值金方案 \| 2022-08-29](https://www.abccar.com.tw/news/detail?id=1313)  |  [订阅地址](https://feed43.com/0564117341674331.xml) |  
+| 競業 | ABC-公告 | abc好車網主站公告 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://feed43.com)  |  [订阅地址](https://feed43.com/0564117341674331.xml) |  
 | 競業 | ABC-LINE | abc好車網LINE貼文 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://feed43.com)  |  [订阅地址](https://feed43.com/0201422374304725.xml) |  
 | 競業 | ABC-Facebook | abc好車網臉書貼文 | [‣ Abc好車網 \| 2022-08-30](https://www.facebook.com/959277324083390/posts/5781968185147589/)<br/>[‣ Abc好車網 \| 2022-08-30](https://www.facebook.com/959277324083390/posts/5782129838464757/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba526139aa9395ab61464f2e42b2.xml) |  
 | 競業 | ABC-YouTube | abc好車網油管影片 | [‣ Abc好車網 \| 2022-08-30](https://www.facebook.com/959277324083390/posts/5781968185147589/)<br/>[‣ Abc好車網 \| 2022-08-30](https://www.facebook.com/959277324083390/posts/5782129838464757/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba526139aa9395ab61464f2e42b2.xml) |  
 | 聯盟 | SAVE-YouTube | SAVE油管影片 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.youtube.com)  |  [订阅地址](https://www.youtube.com/feeds/videos.xml?channel_id=UCR-5EmPDvnZbF6Q_WVbA_RA) |  
-| 聯盟 | HOT-YouTube | HOT油管影片 | [‣ 【HOT保修小學堂】 車子也會中暑!? 夏季保養照過來 🌈 2022-09-01](https://www.youtube.com/watch?v=njlavtON4k0)<br/>[‣ HOT狂夏盛典 買車保養通通有獎 🌈 2022-09-01](https://www.youtube.com/watch?v=M8dsTGX00B4)  |  [订阅地址](https://www.youtube.com/feeds/videos.xml?channel_id=UC4oNiwJigIW9EW3KHrVQ2QQ) |
-| 聯盟 | SUM-YouTube | SUM油管影片 | [‣ 【SUM中古車】TOYOTA CAMRY HYBRID 2015 油電/原廠保養/天窗/電動椅調整/免鑰匙啟動/數位電視 彰化縣 #SUM汽車網 #永大汽車 #TOYOTA #CAMRY #二手車 \| 2022-08-31](https://www.youtube.com/watch?v=Ob_hAmMJPUU)<br/>[‣ 【SUM中古車】LEXUS ES 2015 油電/原廠保養/天窗/電動椅調整/免鑰匙啟動/數位電視 彰化縣 #SUM汽車網 #永大汽車 #LEXUS #ES #二手車 \| 2022-08-31](https://www.youtube.com/watch?v=ZoNoFadrnLc)  |  [订阅地址](https://www.youtube.com/feeds/videos.xml?channel_id=UCM5Vfp-YI1lxpV0C6lgc-RQ) | 
+| 聯盟 | HOT-YouTube | HOT油管影片 | [‣ 【HOT保修小學堂】 車子也會中暑!? 夏季保養照過來 \| 2022-09-01](https://www.youtube.com/watch?v=njlavtON4k0)<br/>[‣ HOT狂夏盛典 買車保養通通有獎 \| 2022-09-01](https://www.youtube.com/watch?v=M8dsTGX00B4)  |  [订阅地址](https://www.youtube.com/feeds/videos.xml?channel_id=UC4oNiwJigIW9EW3KHrVQ2QQ) |
+| 聯盟 | SUM-YouTube | SUM油管影片 | [‣ 【SUM中古車】LUXGEN U6 GT 旗艦版 新車101.9萬  222P馬力 空力套件2018年 台南市 🌈 2022-09-02](https://www.youtube.com/watch?v=-eN_zzG7dr4)<br/>[‣ 【SUM中古車】HONDA HR-V S版 全車原鈑件 內外漂亮 2019年 台南市 🌈 2022-09-02](https://www.youtube.com/watch?v=54NPQ91_wOQ)  |  [订阅地址](https://www.youtube.com/feeds/videos.xml?channel_id=UCM5Vfp-YI1lxpV0C6lgc-RQ) | 
 | 聯盟 | SAVE-Facebook | SAVE臉書貼文 | [‣ FORD FOCUS最佳國產中型車│台灣中古車/二手車的專家-解決你買賣中古車/二手車的大小事 \| 2022-08-31](https://www.facebook.com/226870563993800/posts/6026719064008892/)<br/>[‣ SAVE認證車聯盟 \| 2022-08-31](https://www.facebook.com/226870563993800/posts/6030258936988238/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba526140298e8966b30d012fc4a2.xml) |  
 | 聯盟 | HOT-Facebook | HOT臉書貼文 | [‣ HOT 大聯盟中古車網 \| 2022-08-29](https://www.facebook.com/1612263792147064/posts/8070697986303580/)<br/>[‣ 【#HOT新朋友來報到】#建豐汽車🚗 https://bit.ly/3Cyw3B8📞電話：03-3754276🌎地址：桃園市八德區白鷺里廣福路1085號#桃園保養 #桃園維修 #HOT大聯盟 #HOT保修大聯盟 \| 2022-08-29](https://www.facebook.com/1612263792147064/posts/8071251809581531/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba52614029d2ffc9da29576adf12.xml) |
 | 聯盟 | SUM-Facebook | SUM臉書貼文 | [‣ Photos from SUM中古車汽車網's post \| 2022-08-29](https://www.facebook.com/195510460484243/posts/5318994818135756/)<br/>[‣ Photos from SUM中古車汽車網's post \| 2022-08-29](https://www.facebook.com/195510460484243/posts/5300376106664294/)  |  [订阅地址](http://fetchrss.com/rss/6139acbf8b3504469a62ba5261402a0069c0fb34c1726fe2.xml) | 
