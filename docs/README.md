@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集12个RSS源, 生成时间: 2022-09-10 06:11:37)
+# Github Actions Rss (garss, 嘎RSS! 已收集12个RSS源, 生成时间: 2022-09-11 06:10:44)
 
 
 [《嘎!RSS》永久开源页面: https://github.com/zhaoolee/garss](https://github.com/zhaoolee/garss)
@@ -11,7 +11,7 @@
 2. 利用Github Actions, 搜集全部RSS的头版头条新闻标题和超链接, 并自动更新到首页,当天最新发布的文章会出现🌈 标志
 
 邮件内容区开始>
-<h2>新蒸熟0个小蛋糕🍰(文章) 生产时间 2022-09-10 06:11:37 保质期24小时</h2>
+<h2>新蒸熟0个小蛋糕🍰(文章) 生产时间 2022-09-11 06:10:44 保质期24小时</h2>
 
 
 
